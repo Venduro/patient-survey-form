@@ -1,4 +1,3 @@
-function submitForm(){
-  firstName = document.getElementById(heading);
-  firstName.body.innerHTML = "hi";
-}
+//test to make sure the javascript is linked up properly
+
+//alert("js is link properly!");
