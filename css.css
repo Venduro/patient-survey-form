@@ -1,7 +1,7 @@
 h3 {
   -webkit-margin-after: 0em;
 }
-
+/*styling for the selection categories (excellent,good,etc.)*/
 .center {
   text-align: center;
   padding: 0 5px 0 5px;
@@ -12,6 +12,14 @@ h3 {
   padding: 18px 5px 0 5px;
 }
 
+/*styling for section A. YOUR APPOINTMENT:*/
 span.bold {
   font-weight: bold;
+}
+
+/*bold styling and top padding for section B and C*/
+span.bold-padding {
+  font-weight: bold;
+  margin-top: 20px;
+  display: inline-block;
 }
